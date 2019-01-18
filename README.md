@@ -1,4 +1,4 @@
 # Python
 Beginning
 
-My name is Arvind. this is my repository
+My name is Arvind. this is my first repository

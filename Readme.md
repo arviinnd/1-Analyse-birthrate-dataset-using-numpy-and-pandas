@@ -1,7 +1,7 @@
 Dear Everyone <br>
 Good morning! <br>
 
-Subject: First repository.
+Subject: This is my first repository
 
 This is my first repository. We analyse and visualize the birthrate dataset using numpy, pandas and matplotlib. This is a dataset giving 
 information on male and female births in the years 1969 to 2008 for different months. The mean, minimum and maximum births are 9762, 1 
